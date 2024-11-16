@@ -3,8 +3,7 @@
 <h1 align="center"><b> hi! im len ♡ </b>
 <img src="https://i.pinimg.com/originals/2f/1a/b4/2f1ab4adffb51d6f565a2eeaea71cfa9.gif" width="35"></h1>
 <p align="center">
-
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=#F8C8DC&size=25&center=true&vCenter=true&width=600&height=100&lines=&hearts;++;self-taught+front-end+developer,;software+development+Student,;future+gamedev,;active+learner,;Love+to+learn+new+stuffs..<3"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shorelines+Script&pause=1000&color=B2F8D1&width=435&lines=(self-taught+fullstack+developer);(future+game+dev!);(in+love+with+design+and+aesthetics)" alt="Typing SVG" /></a>
 
 </p>
 <!--
